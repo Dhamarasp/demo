@@ -1,0 +1,10 @@
+{
+    "gcm_sender_id": "",
+    "icons": [{
+        "src": "images/5af0169b2c147686442223.jpg",
+        "sizes": "192x192"
+    }],
+    "name": "Cahaya Agro",
+    "short_name": "Cahaya Agro",
+    "display": "standalone"
+}
